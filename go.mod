@@ -1,4 +1,4 @@
-module github.com/lingotools/sugar
+module github.com/LingARISTOTLE/lingotools
 
 go 1.18
 
